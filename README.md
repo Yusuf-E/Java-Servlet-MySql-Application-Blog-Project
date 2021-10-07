@@ -27,7 +27,7 @@ This project is a web application blog project . You should login successfuly fo
 
 <p>
 <a href="https://github.com/Yusuf-E/Java-Servlet-MySql-Application-Blog-Project/blob/main/images/1.jpg" target="_blank">
-<img src="https://github.com/Yusuf-E/Java-Servlet-MySql-Application-Blog-Project/blob/main/images/1.jpg" width="200" style="max-width:80%;"></a>
+<img src="https://github.com/Yusuf-E/Java-Servlet-MySql-Application-Blog-Project/blob/main/images/1.jpg" width="200" style="max-width:100%;"></a>
   
 <a href="https://github.com/Yusuf-E/Java-Servlet-MySql-Application-Blog-Project/blob/main/images/2.jpg" target="_blank">
 <img src="https://github.com/Yusuf-E/Java-Servlet-MySql-Application-Blog-Project/blob/main/images/2.jpg" width="200" style="max-width:100%;"></a>
