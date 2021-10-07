@@ -1,9 +1,12 @@
-# Java-Servlet-MySql-Application-Blog-Project
+# Java Servlet MySql Application Blog Project
 <p>
-Uygulama Açıklaması
+Bu Proje bir blog web uygulamasıdır. Blog yazısı ekleme,silme,güncelleme gibi yönetim işlemlerini yapabilmek için giriş yapılmalıdır.Her admin kendi yazısını yönetebilir. Blog yazıları herkes tarafından erişilebilir ancak yönetilemez.
 </p>
 <p>
-Description of project</p>
+This project is a web application blog project . You should login successfuly for manage articles of the blog . all admins can only manage(add,delete,update) their own articles. Blog articles can readable for everyone but not managable
+
+</p>
+
 ## Kullanılan Diller ve Yetenekler
 
 | Dil / Yetenek | :arrow_right: | % |
