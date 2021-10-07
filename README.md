@@ -12,8 +12,16 @@ This project is a web application blog project . You should login successfuly fo
 | Dil / Yetenek | :arrow_right: | % |
 | ------------- |:-------------:|:-------------:|
 | Java | :arrow_right: | 90 |
-| JFrame | :arrow_right: | 80 |
-| SQLite | :arrow_right: | 70 |
+| Servlet | :arrow_right: | 80 |
+| JSP | :arrow_right: | 70 |
+| MySQL | :arrow_right: | 70 |
+
+
+## Demo Account
+| :closed_lock_with_key: Username | :old_key: Password |
+|----------|----------|
+| **``murat@mail.com``**| **12345**|
+| **``veli@mail.com``**| **12345**|
 
 ## Uygulama Görselleri
 
